@@ -1,0 +1,48 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.videos_main_div{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.videos_main_div hr {
+    width: 230px;
+}
+
+.videos_main_div h5,
+.videos_main_div p {
+    margin-left: 20px;
+}
+
+.achievements_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievements_head i {
+    float: right;
+}
+
+.achievements_text span {
+    color: #ff7700;
+}
